@@ -3,11 +3,12 @@ import streamlit as st
 st.sidebar.title("MAME DIARRA BA")
 st.sidebar.write("mail:mamediarrab572@gmail.com")
 st.sidebar.write("Adresse:Dakar/Senegal")
-#----Contenu principal----
+#---Contenu Principal---
 st.title("Curriculum Vitae")
 if menu=="Profil":
-st.subheader("Profil")
-st.write("Etudiante en 2 année de BTS Géomatique,passionnée par les systémes d'information géographique,la cartographie et la télédetection")
+st.header("Profil")
+st.write("""Etudiante en 2 année de BTS Géomatique,passionnée par les systémes d'information géographique,la cartographie et la télédetection
+Sérieuse,motivée;prete à éffectuer un stage en géomatique""")
 elif menu =="DIPLOMES"
 st.header("DIPLOMES")
 st.write("BTS en géomatique en cours")
