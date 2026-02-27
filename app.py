@@ -18,7 +18,7 @@ st.markdown("""
 -maitrise des logiciels:QGIS,Arcgis, Google Earth Pro,Pix4D,Erdas,Agisoft,autocad
 -Conception de carte
 -Géoréférencement des cartes
--Numerisation"
+-Numerisation
 -Conception de base de données spatiales
 -Conception de plan autocad
 -Maitrise de Pack Office:EXCEL,POWER POINT""")
