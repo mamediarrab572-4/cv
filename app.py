@@ -3,6 +3,7 @@ import streamlit as st
 st.sidebar.title("MAME DIARRA BA")
 st.sidebar.write("mail:mamediarrab572@gmail.com")
 st.sidebar.write("Adresse:Dakar/Senegal")
+#----Contenu principal----
 st.title("Curriculum Vitae")
 st.header("Profil")
 st.write("Etudiante en 2 année de BTS Géomatique,passionnée par les systémes d'information géographique,la cartographie et la télédetection")
