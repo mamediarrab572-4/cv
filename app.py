@@ -1,8 +1,8 @@
 import streamlit as st
-write st.sidebar:
-st.hearder("MAME DIARRA BA")
-st.write("Technicienne Superieur en géomatique")
-st.markdown("""
+with st.sidebar:
+  st.hearder("MAME DIARRA BA")
+  st.write("Technicienne Superieur en géomatique")
+  st.markdown("""
 -Adresse:Dakar/Sénegal
 -Mail:mamediarrab572@gmail.com""")
 st.subheader("Profil")
