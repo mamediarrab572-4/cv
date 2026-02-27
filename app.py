@@ -1,8 +1,8 @@
 import streamlit as st
-writh st.sidebar:
-st.write ("MAME DIARRA BA")
-st.write("mail:mamediarrab572@gmail.com")
-st.write("Adresse:Dakar/Senegal")
+#-----SIDEBAR----
+st.sidebar.title("MAME DIARRA BA")
+st.sidebar.write("mail:mamediarrab572@gmail.com")
+st.sidebar.write("Adresse:Dakar/Senegal")
 st.title("Curriculum Vitae")
 st.header("Profil")
 st.write("Etudiante en 2 année de BTS Géomatique,passionnée par les systémes d'information géographique,la cartographie et la télédetection")
