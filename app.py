@@ -1,6 +1,6 @@
 import streamlit as st
 with st.sidebar:
-  st.hearder("MAME DIARRA BA")
+  st.header("MAME DIARRA BA")
   st.write("Technicienne Superieur en géomatique")
   st.markdown("""
 -Adresse:Dakar/Sénegal
