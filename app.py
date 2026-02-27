@@ -1,4 +1,4 @@
-import streamlit as st
+simport streamlit as st
 #-----SIDEBAR----
 st.sidebar.title("MAME DIARRA BA")
 st.sidebar.write("mail:mamediarrab572@gmail.com")
