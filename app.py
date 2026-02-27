@@ -6,7 +6,7 @@ st.sidebar.write("Adresse:Dakar/Senegal")
 #----Contenu principal----
 st.title("Curriculum Vitae")
 if menu=="Profil":
-st.header("Profil")
+st.subheader("Profil")
 st.write("Etudiante en 2 année de BTS Géomatique,passionnée par les systémes d'information géographique,la cartographie et la télédetection")
 elif menu =="DIPLOMES"
 st.header("DIPLOMES")
