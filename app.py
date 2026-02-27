@@ -1,5 +1,5 @@
 import streamlit as st
-write st.sidebar
+write st.sidebar:
 st.hearder("MAME DIARRA BA")
 st.write("Technicienne Superieur en géomatique")
 st.markdown("""
