@@ -15,7 +15,7 @@ st.write("BTS en géomatique en cours")
 st.write(" licence en géographie")
 st.write("BAC L2")
 st.header ("Technicien Superieur en Géomatique")
-elif menu =="  Compétences"
+elif menu ==" Compétences"
 st.header("Competences")
 st.Wwrite("maitrise des logiciels:QGIS,Arcgis, Google Earth Pro,Pix4D,Erdas,Agisoft,autocad")
 st.write("Conception de carte")
