@@ -26,5 +26,5 @@ st.subheader("Project Académique")
 st.markdown("""
 -Projection cartographique:Collecte de données de commerce et les écoles de formation professionnel
 -SIG:Création de base de données,numerisation,géoréférencement des cartes
--Protogrammetrie:Ttraitement de données sur Agisoft et PIX4D mapper
+-Protogrammetrie:Ttraitement de données sur Agisoft et PIX4D mapper""")
 
