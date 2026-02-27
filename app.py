@@ -17,7 +17,7 @@ st.write("Conception de carte")
 st.write("Géoréférencement d'image")
 st.write("Numerisation")
 st.write("Conception de base de données spatiales")
-st.write("Maitrise de Pack Office ("EXCEL,POWER POINT")
+st.write("Maitrise de Pack Office: ("EXCEL,POWER POINT")
 st.write("Conception de plan sur autocad")
 
 
