@@ -22,7 +22,7 @@ st.markdown("""
 -Conception de base de données spatiales
 -Conception de plan autocad
 -Maitrise de Pack Office:EXCEL,POWER POINT""")
-st.subheader("""Project Académique")
+st.subheader("Project Académique")
 st.markdown("""
 -Projection cartographique:Collecte de données de commerce et les écoles de formation professionnel
 -SIG:Création de base de données,numerisation,géoréférencement des cartes
